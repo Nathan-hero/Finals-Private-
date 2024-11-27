@@ -202,7 +202,7 @@ int main() {
             }
         }
     } else {
-        SM.mainMenuUser();
+        SM.mainMenuUser();//Still empty (Missing all user prompts || PLease follow flow chart on process)
     }
 
     return 0;
